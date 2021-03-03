@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Read: 03 - Structure web pages with HTML
 
-You can use the [editor on GitHub](https://github.com/Anasomeir/readinghtml/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Every website should be designed for the target audience you have to plan before you start doing the website and know who is your audience to know how to attract them.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+And we have first of all to create a list of reasons why people would be coming to our site. we can then assign the list of tasks to the fictional visitors you created
+in the step described on the previous page.
+### Some of the things if we do it our website will look better and the design will help the visitor to access and get what he wants in very short time
 
-### Markdown
+- **A wireframe** _is a simple sketch of the key
+   information that needs to go on each page of a
+   site. It shows the hierarchy of the information
+   and how much space it might require._
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- **Site Maps** _and its an information into sections or pages._
 
-```markdown
-Syntax highlighted code block
+- **Visual hierarchy** _its all about the Image’s color size style_
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Anasomeir/readinghtml/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Important Information 
+Since the web was first created, there have
+been several different versions of HTML.
+- HTML 4 Released 1997
+- XHTML 1.0 Released 2000
+- HTML5 Released 2000**
